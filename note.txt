@@ -1,1 +1,1 @@
-running into file/django issues... to be continued
+running into file issues... to be continued
